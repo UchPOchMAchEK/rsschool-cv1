@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@600&display=swap');
+
+.main{
+    font-family: Jura;
+    width: 900px;
+    background-color: #FFFAFA;
+    box-shadow: 10px 6px 15px  rgba(34, 60, 80, 0.2);
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cv{
+    text-align: center;
+}
+
+.photo_name{
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo_avatar{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.contacts_section{
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.contacts h3 {
+    margin-bottom: -5px;
+    text-decoration: underline;
+}
+
+.contacts p{
+    margin-bottom: -10px;
+}
+
+.about_me h3{
+    margin-bottom: -5px;
+    text-decoration: underline;
+}
+
+.hyperlink{
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+footer{
+    height: 150px;
+}
+
+footer img{
+    width: 70px;
+    margin-top: 15px;
+}
+
+footer p{
+    text-align: center;
+}
