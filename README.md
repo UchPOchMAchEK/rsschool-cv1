@@ -1,3 +1,3 @@
-https://UchPOchMAchEK.github.io/rsschool-cv/cv
+Markdown https://UchPOchMAchEK.github.io/rsschool-cv/cv
 
-https://UchPOchMAchEK.github.io/rsschool-cv/
+HTML https://UchPOchMAchEK.github.io/rsschool-cv/
