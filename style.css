@@ -49,3 +49,16 @@
     text-decoration: none;
     
 }
+
+footer{
+    height: 150px;
+}
+
+footer img{
+    width: 70px;
+    margin-top: 15px;
+}
+
+footer p{
+    text-align: center;
+}
